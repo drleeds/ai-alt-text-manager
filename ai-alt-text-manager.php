@@ -3,7 +3,7 @@
  * Plugin Name: AI Alt Text Manager
  * Plugin URI: https://github.com/markleeds/ai-alt-text-manager
  * Description: Use AI vision to analyze images and generate ADA-compliant alt text for your media library. Uses centralized Leeds Utilities API management. By Mark Leeds.
- * Version: 2.0.73
+ * Version: 2.0.75
  * Author: Mark Leeds
  * Author URI: https://markleeds.com
  * License: GPL v2 or later
@@ -17,7 +17,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Define plugin constants
-define('AI_ALT_TEXT_MANAGER_VERSION', '2.0.73');
+define('AI_ALT_TEXT_MANAGER_VERSION', '2.0.75');
 define('AI_ALT_TEXT_MANAGER_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('AI_ALT_TEXT_MANAGER_PLUGIN_URL', plugin_dir_url(__FILE__));
 
